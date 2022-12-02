@@ -1,4 +1,4 @@
-<img src="img/logos/villas_framework.png" width="150" align="right">
+<img src="../img/logos/villas_framework.png" width="150" align="right">
 
 # VILLASframework
 
@@ -56,15 +56,15 @@ Funding is provided by the following research projects:
 
 VILLASframework consists of several components:
 
-- <img width="50" src="img/logos/villas_node.png" /> VILLASnode
-- <img width="50" src="img/logos/villas_fpga.png" /> VILLASfpga
-- <img width="50" src="img/logos/villas_web.png" /> VILLASweb
-- <img width="50" src="img/logos/villas_controller.png" /> VILLAScontroller
+- <img width="50" src="../img/logos/villas_node.png" /> VILLASnode
+- <img width="50" src="../img/logos/villas_fpga.png" /> VILLASfpga
+- <img width="50" src="../img/logos/villas_web.png" /> VILLASweb
+- <img width="50" src="../img/logos/villas_controller.png" /> VILLAScontroller
 
 
 ## Architecture
 
-<a href="img/VILLASframework.svg"><img style="text-align: center" src="img/VILLASframework.svg" style="max-width: 75% " /></a>
+<a href="../img/VILLASframework.svg"><img style="text-align: center" src="../img/VILLASframework.svg" style="max-width: 75% " /></a>
 
 ## Documentation
 
@@ -116,7 +116,7 @@ For further question please consider joining our Slack channel: [FEIN Aachen e.V
 
 Steffen Vogel (<svogel2@eonerc.rwth-aachen.de>) is coordinating development of VILLASframework and its application in project at ACS.
 
-[![EONERC ACS Logo](img/logos/eonerc.png)](http://www.acs.eonerc.rwth-aachen.de)
+[![EONERC ACS Logo](../img/logos/eonerc.png)](http://www.acs.eonerc.rwth-aachen.de)
 
 [Institute for Automation of Complex Power Systems (ACS)](http://www.acs.eonerc.rwth-aachen.de)
 [EON Energy Research Center (EONERC)](http://www.eonerc.rwth-aachen.de)
