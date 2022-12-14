@@ -97,7 +97,7 @@ Please click on the link above to subscribe.
 
 For further question please consider joining our Slack channel: [FEIN Aachen e.V. Slack](https://join.slack.com/t/feinev/shared_invite/enQtNTE1NjY5MTg5NTY4LWM4MWI5ZTVkNDgzZTgyNmY5NWY2N2M3MjdjYzQxY2E0MmRlNjBkYTc3ODNlMDliY2M5YzllNjE4YTY3ODBjM2M).
 
-Steffen Vogel (<svogel2@eonerc.rwth-aachen.de>) is coordinating development of VILLASframework and its application in project at ACS.
+Steffen Vogel (<post@steffenvogel.de>) is coordinating development of VILLASframework and its application in project at ACS.
 
 [![EONERC ACS Logo](img/logos/eonerc.png)](http://www.acs.eonerc.rwth-aachen.de)
 
