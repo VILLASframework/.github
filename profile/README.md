@@ -36,10 +36,10 @@ Funding is provided by the following research projects:
 
 VILLASframework consists of several components:
 
-- <img width="50" src="img/logos/villas_node.png" /> VILLASnode
-- <img width="50" src="img/logos/villas_fpga.png" /> VILLASfpga
-- <img width="50" src="img/logos/villas_web.png" /> VILLASweb
-- <img width="50" src="img/logos/villas_controller.png" /> VILLAScontroller
+- <img width="50" src="img/logos/villas_node.png" /> [VILLASnode](https://github.com/VILLASframework/node)
+- <img width="50" src="img/logos/villas_fpga.png" /> [VILLASfpga](https://github.com/VILLASframework/fpga)
+- <img width="50" src="img/logos/villas_web.png" /> [VILLASweb](https://github.com/VILLASframework/web)
+- <img width="50" src="img/logos/villas_controller.png" /> [VILLAScontroller](https://github.com/VILLASframework/controller)
 
 
 ## Architecture
